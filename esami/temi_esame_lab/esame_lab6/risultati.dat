@@ -1,0 +1,85 @@
+========== Richiesta 1 ==========
+ | Numero eventi: 1110
+ | Eventi segnale: 123
+ | Eventi background: 987
+ | Percentuale eventi segnale: 11.08%
+ | Percentuale eventi background: 88.92%
+
+
+========== Richiesta 2 ==========
+ | Massa invariata evento   1:  |      185.7
+ | Massa invariata evento   2:  |      149.9
+ | Massa invariata evento   3:  |      122.6
+ | Massa invariata evento   4:  |      186.4
+ | Massa invariata evento   5:  |      79.83
+ | Massa invariata evento   6:  |      103.4
+ | Massa invariata evento   7:  |      118.4
+ | Massa invariata evento   8:  |      140.8
+ | Massa invariata evento   9:  |        115
+ | Massa invariata evento  10:  |      130.5
+
+
+========== Richiesta 3 ==========
+ | Massa invariante evento     1: 50.01
+ | Tipo evento: Background
+ | Info particella 1: 10.00     -25.01    16.67     10.00     
+ | Info particella 2: 40.01     25.01     -16.67    -10.00    
+
+ | Massa invariante evento     2: 50.06
+ | Tipo evento: Background
+ | Info particella 1: 10.01     -25.03    16.69     10.01     
+ | Info particella 2: 40.04     25.03     -16.69    -10.01    
+
+ | Massa invariante evento     3: 50.24
+ | Tipo evento: Background
+ | Info particella 1: 10.05     -25.12    16.75     10.05     
+ | Info particella 2: 40.19     25.12     -16.75    -10.05    
+
+ | Massa invariante evento     4: 50.56
+ | Tipo evento: Background
+ | Info particella 1: 10.11     -25.28    16.85     10.11     
+ | Info particella 2: 40.45     25.28     -16.85    -10.11    
+
+ | Massa invariante evento  1107: 199.70
+ | Tipo evento: Background
+ | Info particella 1: 39.94     -99.85    66.57     39.94     
+ | Info particella 2: 159.76    99.85     -66.57    -39.94    
+
+ | Massa invariante evento  1108: 199.73
+ | Tipo evento: Background
+ | Info particella 1: 39.95     -99.86    66.58     39.95     
+ | Info particella 2: 159.78    99.86     -66.58    -39.95    
+
+ | Massa invariante evento  1109: 199.75
+ | Tipo evento: Background
+ | Info particella 1: 39.95     -99.88    66.58     39.95     
+ | Info particella 2: 159.80    99.88     -66.58    -39.95    
+
+ | Massa invariante evento  1110: 199.78
+ | Tipo evento: Background
+ | Info particella 1: 39.96     -99.89    66.59     39.96     
+ | Info particella 2: 159.82    99.89     -66.59    -39.96    
+
+
+
+========== Richiesta 4 ==========
+ | Valori per tutti gli eventi: 
+ | Media massa: 126.29
+ | Deviazione standard massa: 41.76
+ | Valore massimo massa: 199.78
+ | Valore minimo massa: 50.01
+
+ | Valori per eventi segnale: 
+ | Media massa segnale: 124.78
+ | Deviazione standard massa segnale: 5.09
+ | Valore massimo massa segnale: 136.42
+ | Valore minimo massa segnale: 50.01
+
+ | Valori per eventi background: 
+ | Media massa background: 126.48
+ | Deviazione standard massa background: 44.25
+ | Valore massimo massa background: 199.78
+ | Valore minimo massa background: 50.01
+
+
+

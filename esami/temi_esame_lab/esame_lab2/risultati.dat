@@ -1,0 +1,36 @@
+========== Richiesta 1 ==========
+(i) Numero sensori caricati: 33
+(ii) 
+
+ | ID: S1          
+ | Letture: 3    
+
+ | ID: S33         
+ | Letture: 5    
+
+========== Richiesta 2 ==========
+ | ID: S10         
+ | Numero anomalie: 1  
+ | Indici prime tre: 3
+
+ | ID: S20         
+ | Numero anomalie: 1  
+ | Indici prime tre: 3
+
+ | ID: S25         
+ | Numero anomalie: 1  
+ | Indici prime tre: 4
+
+ | ID: S30         
+ | Numero anomalie: 1  
+ | Indici prime tre: 2
+
+ | ID: S33         
+ | Numero anomalie: 1  
+ | Indici prime tre: 4
+
+========== Richiesta 3 ==========
+ | Media umidità primo sensore: 59.17 %
+ | Media umidità utlimo sensore: 77.86 %
+========== Richiesta 4 ==========
+ | Sensori ordinati in modo crescente per numero di letture.

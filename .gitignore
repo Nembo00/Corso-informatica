@@ -1,0 +1,27 @@
+# ============================================
+# Eseguibili
+# ============================================
+prog*
+lezione*/prog*
+*.exe
+*.out
+a.out
+*.py
+*.pdf
+*.png
+# File oggetto (prodotti durante la compilazione)
+*.o
+
+# File temporanei di sistema o editor
+.DS_Store
+*.swp
+.vscode/
+
+
+# ============================================
+# Credenziali e configurazioni sensibili
+# ============================================
+.env
+*.token
+*_token.txt
+credentials.txt

@@ -1,0 +1,27 @@
+========== Richiesta 1 ==========
+ (i) Numero traiettorie: 9
+ (ii) Lunghezza traiettorie: 9
+ (iii) Ampiezza salti: 1
+ (iv) Prime e ultime posizioni:
+Prime tre posizioni traiettoria 1 : 0 1 2 
+Ultime tre posizioni traiettoria 1 : -2 -1 0 
+Prime tre posizioni traiettoria 9 : 0 -2 -4 
+Ultime tre posizioni traiettoria 9 : -12 -14 -16 
+
+========== Richiesta 2 ==========
+ (i) Posizione originale traiettoria eliminata: 5
+Prime tre posizioni traiettoria 5 : 0 2 4 
+Ultime tre posizioni traiettoria 5 : 10 12 14 
+ (i) Posizione originale traiettoria eliminata: 7
+Prime tre posizioni traiettoria 7 : 0 0 1 
+Ultime tre posizioni traiettoria 7 : 5 6 7 
+Traiettorie Eliminate: 2
+
+========== Richiesta 3 ==========
+Prime tre posizioni vettore vmeans: 0 -0.357143 -0.714286 
+Ultime tre posizioni vettore vmeans: -1.57143 -1.92857 -2.28571 
+Prime tre posizioni vettore vvars: 0 1.47619 4.57143 
+Ultime tre posizioni vettore vvars: 26.2857 33.2857 41.9048 
+
+========== Richiesta 4 ==========
+Traiettorie ordinate per distanza finale crescente.

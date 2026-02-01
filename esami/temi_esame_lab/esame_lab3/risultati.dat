@@ -1,0 +1,34 @@
+========== Richiesta 1 ==========
+Numero stelle caricate: 50
+ | ID: GEN_STAR_0025          | Magnitudine apparente:   14.86 | Tipo spettrale:     M5V
+ | ID: GEN_STAR_0031          | Magnitudine apparente:    9.94 | Tipo spettrale:   A3III
+
+========== Richiesta 2 ==========
+ | ID: GEN_STAR_0003          | Distanza(mas):  8.01 mas
+ | ID: HIP71683               | Distanza(mas): 11.26 mas
+ | ID: GEN_STAR_0001          | Distanza(mas): 12.11 mas
+ | ID: GEN_STAR_0002          | Distanza(mas): 13.28 mas
+ | ID: GEN_STAR_0005          | Distanza(mas):  7.50 mas
+ | ID: HIP87937               | Distanza(mas):  7.76 mas
+ | ID: GEN_STAR_0004          | Distanza(mas):  6.79 mas
+
+========== Richiesta 3 ==========
+ | ID: GEN_STAR_0025          | Stato variabilità: Variabile
+ | ID: GEN_STAR_0010          | Stato variabilità: Stabile
+ | ID: GEN_STAR_0036          | Stato variabilità: Stabile
+ | ID: GEN_STAR_0016          | Stato variabilità: Stabile
+ | ID: GEN_STAR_0006          | Stato variabilità: Stabile
+ | ID: GEN_STAR_0039          | Stato variabilità: Stabile
+ | ID: GEN_STAR_0003          | Stato variabilità: Stabile
+ | ID: GEN_STAR_0017          | Stato variabilità: Stabile
+ | ID: GEN_STAR_0026          | Stato variabilità: Stabile
+ | ID: GEN_STAR_0045          | Stato variabilità: Stabile
+
+========== Richiesta 4 ==========
+ | ID: HD5001_S               | Magnitudine apparente:   4.50 | Magnitudine assoluta:  -7.01
+ | ID: GEN_STAR_0006          | Magnitudine apparente:   3.67 | Magnitudine assoluta:  -0.93
+ | ID: HIP71683               | Magnitudine apparente:  -0.05 | Magnitudine assoluta:  -0.31
+ | ID: HIP87937               | Magnitudine apparente:   0.03 | Magnitudine assoluta:   0.58
+ | ID: GEN_STAR_0041          | Magnitudine apparente:   3.92 | Magnitudine assoluta:   0.92
+ | ID: GEN_STAR_0012          | Magnitudine apparente:   3.85 | Magnitudine assoluta:   1.37
+
