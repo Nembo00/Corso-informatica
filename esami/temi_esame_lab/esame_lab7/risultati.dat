@@ -1,0 +1,39 @@
+========== Richiesta 1 ==========
+ | Voti caricati:   210 | Voti sufficienti:  0.86 | Voti insufficienti:  0.14
+
+ | Voto    1:  | Codice:         47 | Crediti:          6 | Voto:  23
+ | Voto    2:  | Codice:        128 | Crediti:         12 | Voto:  26
+ | Voto    3:  | Codice:        245 | Crediti:          6 | Voto:  19
+ | Voto  208:  | Codice:         47 | Crediti:          6 | Voto:  30
+ | Voto  209:  | Codice:        128 | Crediti:         12 | Voto:  15
+ | Voto  210:  | Codice:        216 | Crediti:          6 | Voto:  23
+
+
+========== Richiesta 2 ==========
+ | Numero totale studenti:  75 | Numero studenti non espulsi:  70 | Numero studenti espulsi:   5
+ | Studenti espulsi: 
+ | Matricola:        150 | Crediti:     30 | Media pesata: 18.11 | Tentativi falliti:   5 | Status: Fuori
+ | Matricola:         23 | Crediti:     12 | Media pesata:  19.9 | Tentativi falliti:   6 | Status: Fuori
+ | Matricola:        345 | Crediti:     60 | Media pesata: 19.86 | Tentativi falliti:   6 | Status: Fuori
+ | Matricola:         86 | Crediti:      6 | Media pesata: 18.52 | Tentativi falliti:   6 | Status: Fuori
+ | Matricola:        139 | Crediti:     12 | Media pesata: 18.41 | Tentativi falliti:   6 | Status: Fuori
+
+
+========== Richiesta 3 ==========
+ | Studente    1:  | Matricola:          3 | Crediti:     42 | Media pesata: 26.92 | Tentativi falliti:   4
+ | Studente    2:  | Matricola:          5 | Crediti:     42 | Media pesata: 22.01 | Tentativi falliti:   2
+ | Studente    3:  | Matricola:          8 | Crediti:     48 | Media pesata: 25.23 | Tentativi falliti:   1
+ | Studente   68:  | Matricola:        487 | Crediti:     36 | Media pesata: 23.24 | Tentativi falliti:   1
+ | Studente   69:  | Matricola:        497 | Crediti:     12 | Media pesata: 28.97 | Tentativi falliti:   1
+ | Studente   70:  | Matricola:        530 | Crediti:     48 | Media pesata: 24.46 | Tentativi falliti:   2
+
+
+========== Richiesta 4 ==========
+ | Studenti espulsi: 
+ | Matricola:         29 | Crediti:     48 | Media pesata: 19.98 | Tentativi falliti:   5 | Status: Fuori
+ | Matricola:         70 | Crediti:     84 | Media pesata: 22.59 | Tentativi falliti:   5 | Status: Fuori
+ | Matricola:        124 | Crediti:     42 | Media pesata: 18.63 | Tentativi falliti:   6 | Status: Fuori
+ | Matricola:        200 | Crediti:      6 | Media pesata:    18 | Tentativi falliti:   6 | Status: Fuori
+ | Matricola:        385 | Crediti:     36 | Media pesata: 20.17 | Tentativi falliti:   5 | Status: Fuori
+
+
