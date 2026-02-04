@@ -471,7 +471,7 @@ int countlines(const string& filename) {
     fstream file(filename, ios::in);
     if (!file.is_open()) {
         cout << "Errore nell'apertura del file." << endl;
-        return;
+        return -1;
     }
     string tmp;
     int count = 0;
