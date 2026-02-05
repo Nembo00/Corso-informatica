@@ -558,3 +558,10 @@ for(int i = 0; i < n; i++) {
 }
 return write_pos - 1;
 ```
+### utile?
+|**Comando Bash**| **Funzione**|
+|:---|:---|
+|```cp /home/comune/24012025_Dati/lab_ 24012025.pdf .```| Copia il testo |
+|```evince lab_ 24012025.pdf&```| Leggi il compito |
+|```cp /home/comune/24012025_Dati/datiinput.in .```| Scarica i dati|
+|```cp –r cognome_matricola /home/comune/24012025_Soluzioni```| Consegna |    
