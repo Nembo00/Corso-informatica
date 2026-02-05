@@ -489,3 +489,72 @@ int countlines(const string& filename) {
 **Dopo aver letto il file, per rileggerlo è necessario tornare a inizio file:**
 - Cancellare Flag di errore: (failbit o eofbit); si usa `file.clear();`
 - Tornare a inizio file: `file.seekg(0);`
+### Most frequent
+```cpp
+int max_count = 0;
+int most_frequent = v[0];
+
+for(int i = 0; i < N; i++) {
+    int count = 0;
+    for(int j = 0; j < N; j++) {
+        if(v[j] == v[i]) {
+            count++;
+        }
+    }
+    if(count > max_count) {
+        max_count = count;
+        most_frequent = v[i];
+    }
+}
+```
+### Numero primo
+```cpp
+bool isPrime(int n) {
+    if(n <= 1) return false;
+    if(n <= 3) return true;
+    if(n % 2 == 0 || n % 3 == 0) return false;
+    
+    for(int i = 5; i * i <= n; i += 6) {
+        if(n % i == 0 || n % (i + 2) == 0) {
+            return false;
+        }
+    }
+    return true;
+}
+```
+### Palindroma?
+```cpp
+bool isPalindrome(string str) {
+    int n = str.length();
+    for(int i = 0; i < n/2; i++) {
+        if(str[i] != str[n - 1 - i]) {
+            return false;
+        }
+    }
+    return true;
+}
+```
+### Inverti stringa
+```cpp
+void reverseString(string& str) {
+    int n = str.length();
+    for(int i = 0; i < n / 2; i++) {
+        swap(str[i], str[n - 1 - i]);
+    }
+}
+```
+### Partition di un array
+```cpp
+int write_pos = 0;
+for(int i = 0; i < n; i++) {
+    if(valori[i] > 100) {
+        if(i != write_pos) {
+            double temp = valori[i];
+            valori[i] = valori[write_pos];
+            valori[write_pos] = temp;
+        }
+        write_pos++;
+    }
+}
+return write_pos - 1;
+```
